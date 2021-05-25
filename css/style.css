@@ -1,0 +1,386 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+
+width: 80%;
+
+margin: auto;
+
+overflow: hidden;
+}
+.header img{
+
+width: 10%;
+
+float: left;
+
+margin-top: 20px;
+}
+.header nav{
+
+width: 30%;
+
+float: left;
+
+margin-left: 15%;
+
+margin-top: 20px;
+}
+.header nav ul{
+
+list-style: none;
+}
+.header nav ul li{
+    
+float: left;
+    
+margin-left: 21px;
+    
+text-transform: capitalize;
+}
+.heading_right{
+    
+width: 15%;
+    
+float: right;
+    
+font-size: 11px;
+    
+margin-top: 10px;
+    
+background-color: #ff0000;
+    
+height: 43px;
+    
+color: #fff;
+    
+text-align: center;
+}
+.heading_right h2{
+    
+margin-top: 8px;
+}
+.content{
+
+width: 80%;
+
+margin: auto;
+
+overflow: hidden;
+
+margin-top: 120px;
+}
+.left_content{
+
+width: 35%;
+
+float: left;
+
+text-transform: capitalize;
+
+margin: 16px 30px;
+} 
+.left_content h1{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.left_content p{
+
+}
+.right_content{
+    
+width: 50%;
+    
+float: right;
+    
+margin-left: 5%;
+}
+.right_content img{
+    
+width: 84%;
+}
+.demo_center{
+
+width: 60%;
+
+margin: auto;
+
+text-transform: capitalize;
+
+text-align: center;
+
+margin-top: 70px;
+}
+.demo_center h1{
+
+margin-bottom: 20px;
+}
+.demo_center p{
+
+font-style: italic;
+}
+.demo_images{
+
+width: 90%;
+
+overflow: hidden;
+
+margin: auto;
+
+margin-top: 30px;
+}
+.one{
+
+width: 20%;
+
+float: left;
+}
+ .one h1{
+
+text-align: center;
+
+font-size: 20px;
+}
+.one img{
+
+width: 100%;
+}
+.two {
+
+width: 20%;
+
+float: left;
+
+margin-left: 5%;
+}
+.two img {
+    width: 100%;
+}
+.two h1{
+    
+text-align: center;
+    
+font-size: 20px;
+}
+ .three{
+
+width: 20%;
+
+float: left;
+margin-left: 5%;
+}
+.three img{
+
+width: 100%;
+}
+.three h1{
+
+text-align: center;
+
+font-size: 20px;
+}
+ .four{
+    
+width: 20%;
+    
+margin-left: 5%;
+    
+float: right;
+}
+.four img{
+
+width: 100%;
+}
+ .four h1{
+
+text-align: center;
+
+font-size: 20px;
+}
+.feature{
+
+text-align: center;
+
+margin-top: 100px;
+
+text-transform: capitalize;
+}
+.feature h1{
+
+}
+.feature p{
+
+font-size: 16px;
+
+margin-top: 15px;
+
+font-style: italic;
+}
+.iteam_top{
+
+overflow: hidden;
+
+margin: 44px auto;
+
+width: 80%;
+
+text-align: center;
+
+text-transform: capitalize;
+}
+.iteam_top_one{
+
+float: left;
+
+width: 30%;
+}
+.iteam_top_one img{
+
+width: 100%;
+}
+.iteam_top_one h1{
+
+}
+.iteam_top_one p{
+
+}
+.iteam_top_two{
+
+float: left;
+
+width: 30%;
+
+margin-left: 5%;
+}
+.iteam_top_two img{
+
+width: 100%;
+}
+.iteam_top_two h1{
+
+}
+.iteam_top_two p{
+
+}
+.iteam_top_three{
+
+float: right;
+
+width: 30%;
+
+margin-left: 5%;
+}
+.iteam_top_three img{
+
+width: 100%;
+}
+.iteam_top_three h1{
+
+}
+.iteam_top_three p{
+
+}
+.iteam_bottom{
+
+    overflow: hidden;
+    
+    margin: 44px auto;
+    
+    width: 80%;
+    
+    text-align: center;
+    
+    text-transform: capitalize;
+    }
+    .iteam_bottom_one{
+    
+    float: left;
+    
+    width: 30%;
+    }
+    .iteam_bottom_one img{
+    
+    width: 100%;
+    }
+    .iteam_bottom_one h1{
+    
+    }
+    .iteam_bottom_one p{
+    
+    }
+    .iteam_bottom_two{
+    
+    float: left;
+    
+    width: 30%;
+    
+    margin-left: 5%;
+    }
+    .iteam_bottom_two img{
+    
+    width: 100%;
+    }
+    .iteam_bottom_two h1{
+    
+    }
+    .iteam_bottom_two p{
+    
+    }
+    .iteam_bottom_three{
+    
+    float: right;
+    
+    width: 30%;
+    
+    margin-left: 5%;
+    }
+    .iteam_bottom_three img{
+    
+    width: 100%;
+    }
+    .iteam_bottom_three h1{
+    
+    }
+    .iteam_bottom_three p{
+        
+    }
+    .footer{
+
+width: 100%;
+
+background-color: #292640;
+
+height: 46%;
+
+text-align: center;
+}
+    .footer h1{
+
+text-transform: capitalize;
+
+color: #fff;
+
+padding: 10px;
+
+font-size: 35px;
+
+margin-bottom: 10px;
+}
+    .footer h2{
+        width: 20%;
+        font-size: 16px;
+        background-color: #ff0000;
+        height: 25px;
+        color: #fff;
+        text-align: center;
+        margin: auto;
+        padding: 18px;
+    }
+    .footer img{
+        
+margin-top: 20px;
+        
+width: 20%;
+    }
